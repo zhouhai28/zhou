@@ -8,6 +8,7 @@
     },
     "permissions": [
         "core:default",
+        "allow-run_command",
         "core:window:default",
         "core:app:default",
         "core:event:default",
